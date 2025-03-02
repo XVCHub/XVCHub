@@ -2,9 +2,8 @@
 | -------- | -------- 
 | XVCHub | 🟢 
 
+| Status meanings |
 | -------- | -------- 
-| Status meanings:
-|🟢  Working.
-|🟡  Script Updating.
-|🔴  temporarily closed.
-| -------- | -------- 
+| 🟢  Working.
+| 🟡  Script Updating.
+| 🔴  temporarily closed.
