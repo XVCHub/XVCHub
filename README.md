@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/XVCHub/?username=XVCHub&style=flat-square&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=XVCHub&style=flat-square&color=blue)
 
 | Scripts | Status 
 | -------- | -------- 
