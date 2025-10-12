@@ -1,4 +1,4 @@
-[![HitCount](https://hits.dwyl.com/XVCHub/XVCHub.svg?style=flat-square)](http://hits.dwyl.com/XVCHub/XVCHub)
+![Profile views](https://komarev.com/enesxvc/?username=enesxvc&style=flat-square&color=blue)
 
 | Scripts | Status 
 | -------- | -------- 
