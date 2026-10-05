@@ -3,5 +3,4 @@
 ## about me
 * i can make basic and regular scripts
 * im really good at analyzing a game
-* i use ai's to create better/useful scripts
 * [discord server](https://discord.gg/rTw5M8dRXN)
